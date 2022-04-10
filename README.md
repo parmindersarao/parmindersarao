@@ -25,12 +25,12 @@ Hey My Name is Parminder Singh, i have just completed my Bachelor in computer Sc
   <br/>
   <a href="https://github.com/parmindersarao">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a><br>
+  </a>
     <a href="https://twitter.com/parminder_sarao">
-    <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white"></a><br>
+    <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/parminder-s-893929174/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a><br>
+  </a>
     <a href="https://t.me/parmindersarao">
     <img src="https://img.shields.io/badge/-Telegram-blue?&style=flat-square&logo=TELEGRAM&logoColor=white&color=blue">
   </a>
