@@ -17,25 +17,24 @@ Hey My Name is Parminder Singh, i have just completed my Bachelor in computer Sc
 
 
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://pandas.pydata.org/" target="_blank"><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"></a></code>
+<code><a href="https://numpy.org/" target="_blank"><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"></a></code>
 <h1 align="center">
 ✨ Where you can find me ✨
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parminder-s-893929174/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
   <a href="https://github.com/parmindersarao">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-  <br/>
-  <a href="https://twitter.com/parminder_sarao">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-      <a href="https://t.me/parmindersarao">
-    <img src="https://img.shields.io/badge/-TELEGRAM-blue?&style=flat-square&logo=TELEGRAM&logoColor=white&color=blue">  
+    <a href="https://twitter.com/parminder_sarao">
+    <img src="https://img.shields.io/badge/Twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/parminder-s-893929174/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
+    <a href="https://t.me/parmindersarao">
+    <img src="https://img.shields.io/badge/-Telegram-blue?&style=flat-square&logo=TELEGRAM&logoColor=white&color=blue">
   </a>
+ 
 </p>
 </h1>
 
